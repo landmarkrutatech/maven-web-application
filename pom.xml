@@ -5,7 +5,7 @@
 	<groupId>com.mt</groupId>
 	<artifactId>maven-web-application</artifactId>
 	<packaging>war</packaging>
-	<version>0.0.1</version> 
+	<version>0.0.1-SNAPSHOT</version> 
 	
 	<name>maven-web-application</name>
 
@@ -102,7 +102,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://172.31.28.148:8000/repository/tesla-fe-snapshots/</url>
+	      <url>http://172.31.28.148:8000/repository/ebay-bts-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
